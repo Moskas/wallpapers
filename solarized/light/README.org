@@ -1,0 +1,6 @@
+* solarized-crane.png
+[[./solarized-crane.png]]
+* solarized-dragon-light.png
+[[./solarized-dragon-light.png]]
+* solarized-light-nix.png
+[[./solarized-light-nix.png]]

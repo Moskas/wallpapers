@@ -1,0 +1,218 @@
+* gruv-abstract-maze.png
+[[./gruv-abstract-maze.png]]
+* gruv-abstract-stars.png
+[[./gruv-abstract-stars.png]]
+* gruv-anime-samurai-girl.png
+[[./gruv-anime-samurai-girl.png]]
+* gruv-arknights-crime-scene.png
+[[./gruv-arknights-crime-scene.png]]
+* gruv-arknights-neon-city.png
+[[./gruv-arknights-neon-city.png]]
+* gruv-arknights-texas.png
+[[./gruv-arknights-texas.png]]
+* gruv-bamboo-night.png
+[[./gruv-bamboo-night.png]]
+* gruv-black-mesa-reactor.png
+[[./gruv-black-mesa-reactor.png]]
+* gruv-cave.png
+[[./gruv-cave.png]]
+* gruv-city17-railways.png
+[[./gruv-city17-railways.png]]
+* gruv-commit.png
+[[./gruv-commit.png]]
+* gruv-cyberden.png
+[[./gruv-cyberden.png]]
+* gruv-cyberpunk-edgerunners-moon.png
+[[./gruv-cyberpunk-edgerunners-moon.png]]
+* gruv-dark-111448499_p9.png
+[[./gruv-dark-111448499_p9.png]]
+* gruv-doom-eternal-fight.png
+[[./gruv-doom-eternal-fight.png]]
+* gruv-estimate.png
+[[./gruv-estimate.png]]
+* gruv-focus.png
+[[./gruv-focus.png]]
+* gruv-girl.png
+[[./gruv-girl.png]]
+* gruv-kang_tao.png
+[[./gruv-kang_tao.png]]
+* gruv-kanji.png
+[[./gruv-kanji.png]]
+* gruv-klee-rain.png
+[[./gruv-klee-rain.png]]
+* gruv-limits.png
+[[./gruv-limits.png]]
+* gruv-mazda-city.png
+[[./gruv-mazda-city.png]]
+* gruv-mazda-forest.png
+[[./gruv-mazda-forest.png]]
+* gruv-mazda-japan.png
+[[./gruv-mazda-japan.png]]
+* gruv-mistakes.png
+[[./gruv-mistakes.png]]
+* gruv-mountains.png
+[[./gruv-mountains.png]]
+* gruv-nix-anime.png
+[[./gruv-nix-anime.png]]
+* gruv-ouro-kronii-cyberpunk.png
+[[./gruv-ouro-kronii-cyberpunk.png]]
+* gruv-pond.png
+[[./gruv-pond.png]]
+* gruv-portal-cake.png
+[[./gruv-portal-cake.png]]
+* gruv-rdr2-mountains.png
+[[./gruv-rdr2-mountains.png]]
+* gruv-ruins.png
+[[./gruv-ruins.png]]
+* gruv-samurai-cyberpunk2077.png
+[[./gruv-samurai-cyberpunk2077.png]]
+* gruv-samurai-forest.png
+[[./gruv-samurai-forest.png]]
+* gruv-samurai-oil-painting.png
+[[./gruv-samurai-oil-painting.png]]
+* gruv-samurai-rain.png
+[[./gruv-samurai-rain.png]]
+* gruv-shimakaze-ijn-new-year.png
+[[./gruv-shimakaze-ijn-new-year.png]]
+* gruv-subnautica.png
+[[./gruv-subnautica.png]]
+* gruv-sushi-switch.png
+[[./gruv-sushi-switch.png]]
+* gruv-thinkpad-oldschool.png
+[[./gruv-thinkpad-oldschool.png]]
+* gruv-tiger-mask.png
+[[./gruv-tiger-mask.png]]
+* gruv-trauma.png
+[[./gruv-trauma.png]]
+* gruv-understand.png
+[[./gruv-understand.png]]
+* gruv-wallhaven-011km1.png
+[[./gruv-wallhaven-011km1.png]]
+* gruv-wallhaven-4gmevq.png
+[[./gruv-wallhaven-4gmevq.png]]
+* gruv-wallhaven-4yj28l.png
+[[./gruv-wallhaven-4yj28l.png]]
+* gruv-wallhaven-6okky7.png
+[[./gruv-wallhaven-6okky7.png]]
+* gruv-wallhaven-l3y2p2.png
+[[./gruv-wallhaven-l3y2p2.png]]
+* gruv-wallhaven-m9e9m1.png
+[[./gruv-wallhaven-m9e9m1.png]]
+* gruv-wallhaven-pkzoj3.png
+[[./gruv-wallhaven-pkzoj3.png]]
+* gruv-wallhaven-v9l5zp.png
+[[./gruv-wallhaven-v9l5zp.png]]
+* gruv-waterfall.png
+[[./gruv-waterfall.png]]
+* gruvbox-nix.png
+[[./gruvbox-nix.png]]
+* gruvbox-rainbow-nix.png
+[[./gruvbox-rainbow-nix.png]]
+* wallhaven-2ye67g.png
+[[./wallhaven-2ye67g.png]]
+* wallhaven-6dlpr7.png
+[[./wallhaven-6dlpr7.png]]
+* wallhaven-7pje5o.png
+[[./wallhaven-7pje5o.png]]
+* wallhaven-859prj.png
+[[./wallhaven-859prj.png]]
+* wallhaven-9d9erw.png
+[[./wallhaven-9d9erw.png]]
+* wallhaven-9doldx.png
+[[./wallhaven-9doldx.png]]
+* wallhaven-kwvz8m.png
+[[./wallhaven-kwvz8m.png]]
+* wallhaven-l8jo3p.png
+[[./wallhaven-l8jo3p.png]]
+* wallhaven-x6dr2d.png
+[[./wallhaven-x6dr2d.png]]
+* gruv-forest-mountain.jpg
+[[./gruv-forest-mountain.jpg]]
+* wallhaven-0qvw5q.jpg
+[[./wallhaven-0qvw5q.jpg]]
+* wallhaven-0wrexr.jpg
+[[./wallhaven-0wrexr.jpg]]
+* wallhaven-1pojx3.jpg
+[[./wallhaven-1pojx3.jpg]]
+* wallhaven-2873ey.jpg
+[[./wallhaven-2873ey.jpg]]
+* wallhaven-3lkgry.jpg
+[[./wallhaven-3lkgry.jpg]]
+* wallhaven-45opw7.jpg
+[[./wallhaven-45opw7.jpg]]
+* wallhaven-47odme.jpg
+[[./wallhaven-47odme.jpg]]
+* wallhaven-499g3k.jpg
+[[./wallhaven-499g3k.jpg]]
+* wallhaven-49ydgk.jpg
+[[./wallhaven-49ydgk.jpg]]
+* wallhaven-4lvery.jpg
+[[./wallhaven-4lvery.jpg]]
+* wallhaven-4ozwpl.jpg
+[[./wallhaven-4ozwpl.jpg]]
+* wallhaven-5g3xl5.jpg
+[[./wallhaven-5g3xl5.jpg]]
+* wallhaven-5gwpx7.jpg
+[[./wallhaven-5gwpx7.jpg]]
+* wallhaven-6dwjqw.jpg
+[[./wallhaven-6dwjqw.jpg]]
+* wallhaven-7p6xo3.jpg
+[[./wallhaven-7p6xo3.jpg]]
+* wallhaven-85j881.jpg
+[[./wallhaven-85j881.jpg]]
+* wallhaven-8x3xjy.jpg
+[[./wallhaven-8x3xjy.jpg]]
+* wallhaven-8xg1pj.jpg
+[[./wallhaven-8xg1pj.jpg]]
+* wallhaven-95kz61.jpg
+[[./wallhaven-95kz61.jpg]]
+* wallhaven-95oyew.jpg
+[[./wallhaven-95oyew.jpg]]
+* wallhaven-96g85w.jpg
+[[./wallhaven-96g85w.jpg]]
+* wallhaven-9d6xmw.jpg
+[[./wallhaven-9d6xmw.jpg]]
+* wallhaven-9dgp8k.jpg
+[[./wallhaven-9dgp8k.jpg]]
+* wallhaven-ex265o.jpg
+[[./wallhaven-ex265o.jpg]]
+* wallhaven-j5vk6m.jpg
+[[./wallhaven-j5vk6m.jpg]]
+* wallhaven-jxl8mw.jpg
+[[./wallhaven-jxl8mw.jpg]]
+* wallhaven-lm1z2l.jpg
+[[./wallhaven-lm1z2l.jpg]]
+* wallhaven-lm2kel.jpg
+[[./wallhaven-lm2kel.jpg]]
+* wallhaven-lmg7ep.jpg
+[[./wallhaven-lmg7ep.jpg]]
+* wallhaven-m3g698.jpg
+[[./wallhaven-m3g698.jpg]]
+* wallhaven-m3g8k1.jpg
+[[./wallhaven-m3g8k1.jpg]]
+* wallhaven-oxjld5.jpg
+[[./wallhaven-oxjld5.jpg]]
+* wallhaven-p8gj2j.jpg
+[[./wallhaven-p8gj2j.jpg]]
+* wallhaven-p9m2qm.jpg
+[[./wallhaven-p9m2qm.jpg]]
+* wallhaven-qzm68r.jpg
+[[./wallhaven-qzm68r.jpg]]
+* wallhaven-qzmevq.jpg
+[[./wallhaven-qzmevq.jpg]]
+* wallhaven-qzo1rd.jpg
+[[./wallhaven-qzo1rd.jpg]]
+* wallhaven-r7eg2m.jpg
+[[./wallhaven-r7eg2m.jpg]]
+* wallhaven-we1lrq.jpg
+[[./wallhaven-we1lrq.jpg]]
+* wallhaven-wemq7r.jpg
+[[./wallhaven-wemq7r.jpg]]
+* wallhaven-wqwdv6.jpg
+[[./wallhaven-wqwdv6.jpg]]
+* wallhaven-wyqomq.jpg
+[[./wallhaven-wyqomq.jpg]]
+* wallhaven-yxv8pd.jpg
+[[./wallhaven-yxv8pd.jpg]]
+* wallhaven-zxd92w.jpg
+[[./wallhaven-zxd92w.jpg]]

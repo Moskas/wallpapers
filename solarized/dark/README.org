@@ -1,0 +1,12 @@
+* solarized-archlinux.png
+[[./solarized-archlinux.png]]
+* solarized-colors.png
+[[./solarized-colors.png]]
+* solarized-dragon-dark.png
+[[./solarized-dragon-dark.png]]
+* solarized-nix.png
+[[./solarized-nix.png]]
+* solarized-pond.png
+[[./solarized-pond.png]]
+* solarized-keyboard.jpg
+[[./solarized-keyboard.jpg]]
