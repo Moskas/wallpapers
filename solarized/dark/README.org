@@ -1,12 +1,20 @@
-* solarized-archlinux.png
-[[./solarized-archlinux.png]]
-* solarized-colors.png
-[[./solarized-colors.png]]
-* solarized-dragon-dark.png
-[[./solarized-dragon-dark.png]]
-* solarized-nix.png
-[[./solarized-nix.png]]
-* solarized-pond.png
-[[./solarized-pond.png]]
+* samurai-anime-girl.jpg
+ [[./samurai-anime-girl.jpg]]
+* sl.jpg
+ [[./sl.jpg]]
 * solarized-keyboard.jpg
-[[./solarized-keyboard.jpg]]
+ [[./solarized-keyboard.jpg]]
+* nixos-wallpaper.png
+ [[./nixos-wallpaper.png]]
+* solarized-colors.png
+ [[./solarized-colors.png]]
+* solarized-dragon-dark.png
+ [[./solarized-dragon-dark.png]]
+* solarized-nix.png
+ [[./solarized-nix.png]]
+* solarized-pond.png
+ [[./solarized-pond.png]]
+* wallhaven-6dlpr7.png
+ [[./wallhaven-6dlpr7.png]]
+* wallhaven-9doldx.png
+ [[./wallhaven-9doldx.png]]
