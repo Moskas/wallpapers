@@ -4,6 +4,10 @@
  [[./sl.jpg]]
 * solarized-keyboard.jpg
  [[./solarized-keyboard.jpg]]
+* wallhaven-j59dgw.jpg
+ [[./wallhaven-j59dgw.jpg]]
+* wallhaven-o5w15l.jpg
+ [[./wallhaven-o5w15l.jpg]]
 * nixos-wallpaper.png
  [[./nixos-wallpaper.png]]
 * solarized-colors.png
@@ -18,3 +22,5 @@
  [[./wallhaven-6dlpr7.png]]
 * wallhaven-9doldx.png
  [[./wallhaven-9doldx.png]]
+* wallhaven-p97qem.png
+ [[./wallhaven-p97qem.png]]
