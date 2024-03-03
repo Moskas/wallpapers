@@ -1,7 +1,6 @@
+
 * samurai-anime-girl.jpg
  [[./samurai-anime-girl.jpg]]
-* sl.jpg
- [[./sl.jpg]]
 * solarized-keyboard.jpg
  [[./solarized-keyboard.jpg]]
 * wallhaven-j59dgw.jpg
@@ -10,8 +9,6 @@
  [[./wallhaven-o5w15l.jpg]]
 * nixos-wallpaper.png
  [[./nixos-wallpaper.png]]
-* solarized-colors.png
- [[./solarized-colors.png]]
 * solarized-dragon-dark.png
  [[./solarized-dragon-dark.png]]
 * solarized-nix.png

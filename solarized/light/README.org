@@ -1,3 +1,4 @@
+
 * wallhaven-5g6lz3.jpg
  [[./wallhaven-5g6lz3.jpg]]
 * wallhaven-6o32d7.jpg
@@ -28,8 +29,12 @@
  [[./solarized-crane.png]]
 * solarized-dragon-light.png
  [[./solarized-dragon-light.png]]
+* solarized-light-nix.png
+ [[./solarized-light-nix.png]]
 * wallhaven-2y1d79.png
  [[./wallhaven-2y1d79.png]]
+* wallhaven-2yw9w9.png
+ [[./wallhaven-2yw9w9.png]]
 * wallhaven-6dd3vw.png
  [[./wallhaven-6dd3vw.png]]
 * wallhaven-7pje5o.png
@@ -40,12 +45,20 @@
  [[./wallhaven-g76mml.png]]
 * wallhaven-kxjo2d.png
  [[./wallhaven-kxjo2d.png]]
+* wallhaven-kxjrz6.png
+ [[./wallhaven-kxjrz6.png]]
 * wallhaven-l88x5y.png
  [[./wallhaven-l88x5y.png]]
+* wallhaven-l8rw8y.png
+ [[./wallhaven-l8rw8y.png]]
+* wallhaven-l8rz6l.png
+ [[./wallhaven-l8rz6l.png]]
 * wallhaven-m95w3m.png
  [[./wallhaven-m95w3m.png]]
 * wallhaven-o5g6r7.png
  [[./wallhaven-o5g6r7.png]]
+* wallhaven-p9598m.png
+ [[./wallhaven-p9598m.png]]
 * wallhaven-qz6v3d.png
  [[./wallhaven-qz6v3d.png]]
 * wallhaven-vq95d8.png
@@ -54,5 +67,7 @@
  [[./wallhaven-weq9wx.png]]
 * wallhaven-x6l3zv.png
  [[./wallhaven-x6l3zv.png]]
+* wallhaven-zy3oeo.png
+ [[./wallhaven-zy3oeo.png]]
 * wallhaven-zyxk5w.png
  [[./wallhaven-zyxk5w.png]]
