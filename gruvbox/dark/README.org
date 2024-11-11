@@ -3,60 +3,30 @@
  [[./gruv-forest-mountain.jpg]]
 * wallhaven-0qvw5q.jpg
  [[./wallhaven-0qvw5q.jpg]]
-* wallhaven-0wrexr.jpg
- [[./wallhaven-0wrexr.jpg]]
 * wallhaven-1pojx3.jpg
  [[./wallhaven-1pojx3.jpg]]
 * wallhaven-2873ey.jpg
  [[./wallhaven-2873ey.jpg]]
 * wallhaven-2e2xyx.jpg
  [[./wallhaven-2e2xyx.jpg]]
-* wallhaven-3lkgry.jpg
- [[./wallhaven-3lkgry.jpg]]
 * wallhaven-3zdy8v.jpg
  [[./wallhaven-3zdy8v.jpg]]
 * wallhaven-45opw7.jpg
  [[./wallhaven-45opw7.jpg]]
-* wallhaven-47odme.jpg
- [[./wallhaven-47odme.jpg]]
-* wallhaven-499g3k.jpg
- [[./wallhaven-499g3k.jpg]]
-* wallhaven-49ydgk.jpg
- [[./wallhaven-49ydgk.jpg]]
-* wallhaven-4lvery.jpg
- [[./wallhaven-4lvery.jpg]]
-* wallhaven-4ozwpl.jpg
- [[./wallhaven-4ozwpl.jpg]]
-* wallhaven-5g3xl5.jpg
- [[./wallhaven-5g3xl5.jpg]]
-* wallhaven-5gwpx7.jpg
- [[./wallhaven-5gwpx7.jpg]]
 * wallhaven-6dl93q.jpg
  [[./wallhaven-6dl93q.jpg]]
 * wallhaven-6dwjqw.jpg
  [[./wallhaven-6dwjqw.jpg]]
 * wallhaven-7p6xo3.jpg
  [[./wallhaven-7p6xo3.jpg]]
-* wallhaven-85j881.jpg
- [[./wallhaven-85j881.jpg]]
 * wallhaven-8x3xjy.jpg
  [[./wallhaven-8x3xjy.jpg]]
 * wallhaven-8xg1pj.jpg
  [[./wallhaven-8xg1pj.jpg]]
-* wallhaven-95kz61.jpg
- [[./wallhaven-95kz61.jpg]]
-* wallhaven-95oyew.jpg
- [[./wallhaven-95oyew.jpg]]
-* wallhaven-96g85w.jpg
- [[./wallhaven-96g85w.jpg]]
 * wallhaven-9d6xmw.jpg
  [[./wallhaven-9d6xmw.jpg]]
-* wallhaven-9dgp8k.jpg
- [[./wallhaven-9dgp8k.jpg]]
 * wallhaven-cyber-skull.jpg
  [[./wallhaven-cyber-skull.jpg]]
-* wallhaven-ex265o.jpg
- [[./wallhaven-ex265o.jpg]]
 * wallhaven-j5vk6m.jpg
  [[./wallhaven-j5vk6m.jpg]]
 * wallhaven-jxl8mw.jpg
@@ -83,14 +53,6 @@
  [[./wallhaven-p8gj2j.jpg]]
 * wallhaven-p9m2qm.jpg
  [[./wallhaven-p9m2qm.jpg]]
-* wallhaven-qzm68r.jpg
- [[./wallhaven-qzm68r.jpg]]
-* wallhaven-qzmevq.jpg
- [[./wallhaven-qzmevq.jpg]]
-* wallhaven-qzo1rd.jpg
- [[./wallhaven-qzo1rd.jpg]]
-* wallhaven-r7eg2m.jpg
- [[./wallhaven-r7eg2m.jpg]]
 * wallhaven-we1lrq.jpg
  [[./wallhaven-we1lrq.jpg]]
 * wallhaven-wemq7r.jpg
@@ -107,8 +69,6 @@
  [[./wallhaven-yxv8pd.jpg]]
 * wallhaven-zxd92w.jpg
  [[./wallhaven-zxd92w.jpg]]
-* 108857479_p0.png
- [[./108857479_p0.png]]
 * 108948084_p0.png
  [[./108948084_p0.png]]
 * 110367356_p0.png
@@ -155,8 +115,6 @@
  [[./gruv-klee-rain.png]]
 * gruv-limits.png
  [[./gruv-limits.png]]
-* gruv-mazda-city.png
- [[./gruv-mazda-city.png]]
 * gruv-mazda-forest.png
  [[./gruv-mazda-forest.png]]
 * gruv-mazda-japan.png
@@ -171,18 +129,12 @@
  [[./gruv-pond.png]]
 * gruv-portal-cake.png
  [[./gruv-portal-cake.png]]
-* gruv-rdr2-mountains.png
- [[./gruv-rdr2-mountains.png]]
 * gruv-ruins.png
  [[./gruv-ruins.png]]
 * gruv-samurai-cyberpunk2077.png
  [[./gruv-samurai-cyberpunk2077.png]]
-* gruv-samurai-oil-painting.png
- [[./gruv-samurai-oil-painting.png]]
 * gruv-samurai-rain.png
  [[./gruv-samurai-rain.png]]
-* gruv-shimakaze-ijn-new-year.png
- [[./gruv-shimakaze-ijn-new-year.png]]
 * gruv-sushi-switch.png
  [[./gruv-sushi-switch.png]]
 * gruv-thinkpad-oldschool.png
@@ -205,10 +157,6 @@
  [[./gruv-wallhaven-l3y2p2.png]]
 * gruv-wallhaven-m9e9m1.png
  [[./gruv-wallhaven-m9e9m1.png]]
-* gruv-wallhaven-pkzoj3.png
- [[./gruv-wallhaven-pkzoj3.png]]
-* gruv-waterfall.png
- [[./gruv-waterfall.png]]
 * wallhaven-2yjwq9.png
  [[./wallhaven-2yjwq9.png]]
 * wallhaven-6dlpr7.png
@@ -219,8 +167,6 @@
  [[./wallhaven-7pje5o.png]]
 * wallhaven-7po5yv.png
  [[./wallhaven-7po5yv.png]]
-* wallhaven-859prj.png
- [[./wallhaven-859prj.png]]
 * wallhaven-9d9erw.png
  [[./wallhaven-9d9erw.png]]
 * wallhaven-9doldx.png
