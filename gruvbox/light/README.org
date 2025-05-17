@@ -1,66 +1,24 @@
 
 * gruv-samurai.jpg
  [[./gruv-samurai.jpg]]
-* wallhaven-0q1oxq.jpg
- [[./wallhaven-0q1oxq.jpg]]
-* wallhaven-1pr88v.jpg
- [[./wallhaven-1pr88v.jpg]]
-* wallhaven-28x1pg.jpg
- [[./wallhaven-28x1pg.jpg]]
-* wallhaven-2yj65y.jpg
- [[./wallhaven-2yj65y.jpg]]
-* wallhaven-39zor3.jpg
- [[./wallhaven-39zor3.jpg]]
-* wallhaven-6dyvl6.jpg
- [[./wallhaven-6dyvl6.jpg]]
-* wallhaven-6o32d7.jpg
- [[./wallhaven-6o32d7.jpg]]
+* wallhaven-3ld92d.jpg
+ [[./wallhaven-3ld92d.jpg]]
 * wallhaven-85pmz2.jpg
  [[./wallhaven-85pmz2.jpg]]
-* wallhaven-9d9111.jpg
- [[./wallhaven-9d9111.jpg]]
 * wallhaven-9dekyx.jpg
  [[./wallhaven-9dekyx.jpg]]
 * wallhaven-d63eqg.jpg
  [[./wallhaven-d63eqg.jpg]]
 * wallhaven-e757jl.jpg
  [[./wallhaven-e757jl.jpg]]
-* wallhaven-ex6qxo.jpg
- [[./wallhaven-ex6qxo.jpg]]
-* wallhaven-ex6xvk.jpg
- [[./wallhaven-ex6xvk.jpg]]
-* wallhaven-gjoyr3.jpg
- [[./wallhaven-gjoyr3.jpg]]
 * wallhaven-gp13me.jpg
  [[./wallhaven-gp13me.jpg]]
-* wallhaven-jxd65y.jpg
- [[./wallhaven-jxd65y.jpg]]
-* wallhaven-jxqyrq.jpg
- [[./wallhaven-jxqyrq.jpg]]
-* wallhaven-md9lx8.jpg
- [[./wallhaven-md9lx8.jpg]]
-* wallhaven-o5jrgp.jpg
- [[./wallhaven-o5jrgp.jpg]]
-* wallhaven-o5vqy9.jpg
- [[./wallhaven-o5vqy9.jpg]]
-* wallhaven-odlkw9.jpg
- [[./wallhaven-odlkw9.jpg]]
 * wallhaven-v9dqr3.jpg
  [[./wallhaven-v9dqr3.jpg]]
 * wallhaven-wq72qr.jpg
  [[./wallhaven-wq72qr.jpg]]
-* wallhaven-wq9pjq.jpg
- [[./wallhaven-wq9pjq.jpg]]
-* wallhaven-x69v6v.jpg
- [[./wallhaven-x69v6v.jpg]]
-* wallhaven-y86vjx.jpg
- [[./wallhaven-y86vjx.jpg]]
 * wallhaven-zym3qg.jpg
  [[./wallhaven-zym3qg.jpg]]
-* 111276901_p0.png
- [[./111276901_p0.png]]
-* 112864500_p0.png
- [[./112864500_p0.png]]
 * gruv-108194480_p0.png
  [[./gruv-108194480_p0.png]]
 * gruv-108194480_p1.png
@@ -87,16 +45,8 @@
  [[./gruvbox-light-rainbow-nix.png]]
 * gruv-cheshire.png
  [[./gruv-cheshire.png]]
-* gruv-dark-111448499_p10.png
- [[./gruv-dark-111448499_p10.png]]
-* gruv-dark-111448499_p11.png
- [[./gruv-dark-111448499_p11.png]]
 * gruv-dark-111448499_p12.png
  [[./gruv-dark-111448499_p12.png]]
-* gruv-dark-111448499_p13.png
- [[./gruv-dark-111448499_p13.png]]
-* gruv-dark-111448499_p14.png
- [[./gruv-dark-111448499_p14.png]]
 * gruv-dark-111467051_p0.png
  [[./gruv-dark-111467051_p0.png]]
 * gruv-dark-111467051_p1.png
@@ -109,28 +59,14 @@
  [[./gruv-dark-111467051_p4.png]]
 * gruv-dark-111467692_p0.png
  [[./gruv-dark-111467692_p0.png]]
-* gruv-dark-111467692_p6.png
- [[./gruv-dark-111467692_p6.png]]
-* gruv-dark-111467692_p7.png
- [[./gruv-dark-111467692_p7.png]]
-* gruv-hotline-miami.png
- [[./gruv-hotline-miami.png]]
 * gruv-Lo-bit HardTechno VOL.001.png
  [[./gruv-Lo-bit HardTechno VOL.001.png]]
-* gruv-wallhaven-g823l3.png
- [[./gruv-wallhaven-g823l3.png]]
 * gruv-wallhaven-m9l6dk.png
  [[./gruv-wallhaven-m9l6dk.png]]
-* gruv-wallhaven-mdmkry.png
- [[./gruv-wallhaven-mdmkry.png]]
 * lava_gruvbox-dark_hald8_GaussianRBF_lum1_shape96_near16.png
  [[./lava_gruvbox-dark_hald8_GaussianRBF_lum1_shape96_near16.png]]
 * tohru.png
  [[./tohru.png]]
-* wallhaven-2y1d79.png
- [[./wallhaven-2y1d79.png]]
-* wallhaven-2yoj3m.png
- [[./wallhaven-2yoj3m.png]]
 * wallhaven-3zygdy.png
  [[./wallhaven-3zygdy.png]]
 * wallhaven-5g6pq3.png
@@ -143,63 +79,23 @@
  [[./wallhaven-6dgeww.png]]
 * wallhaven-7poxre.png
  [[./wallhaven-7poxre.png]]
-* wallhaven-85ejkk.png
- [[./wallhaven-85ejkk.png]]
 * wallhaven-9d2gvx.png
  [[./wallhaven-9d2gvx.png]]
-* wallhaven-9dr26w.png
- [[./wallhaven-9dr26w.png]]
-* wallhaven-expvwr.png
- [[./wallhaven-expvwr.png]]
-* wallhaven-gp12gl.png
- [[./wallhaven-gp12gl.png]]
-* wallhaven-gp27e3.png
- [[./wallhaven-gp27e3.png]]
-* wallhaven-jxrolw.png
- [[./wallhaven-jxrolw.png]]
-* wallhaven-jxv3zm.png
- [[./wallhaven-jxv3zm.png]]
 * wallhaven-jxyj3p.png
  [[./wallhaven-jxyj3p.png]]
-* wallhaven-kxd96d.png
- [[./wallhaven-kxd96d.png]]
 * wallhaven-kxjrz6.png
  [[./wallhaven-kxjrz6.png]]
 * wallhaven-l8rz6l.png
  [[./wallhaven-l8rz6l.png]]
-* wallhaven-lqq99q.png
- [[./wallhaven-lqq99q.png]]
-* wallhaven-m3g9zm.png
- [[./wallhaven-m3g9zm.png]]
-* wallhaven-m3rl79.png
- [[./wallhaven-m3rl79.png]]
-* wallhaven-m3vo2y.png
- [[./wallhaven-m3vo2y.png]]
-* wallhaven-m95w3m.png
- [[./wallhaven-m95w3m.png]]
-* wallhaven-o523p9.png
- [[./wallhaven-o523p9.png]]
 * wallhaven-o5g6r7.png
  [[./wallhaven-o5g6r7.png]]
-* wallhaven-o5w6z9.png
- [[./wallhaven-o5w6z9.png]]
-* wallhaven-p9598m.png
- [[./wallhaven-p9598m.png]]
 * wallhaven-pk8jre.png
  [[./wallhaven-pk8jre.png]]
 * wallhaven-q2mz8r.png
  [[./wallhaven-q2mz8r.png]]
-* wallhaven-qz5p57.png
- [[./wallhaven-qz5p57.png]]
-* wallhaven-rrpwj1.png
- [[./wallhaven-rrpwj1.png]]
 * wallhaven-vgvpll.png
  [[./wallhaven-vgvpll.png]]
-* wallhaven-vq5rol.png
- [[./wallhaven-vq5rol.png]]
 * wallhaven-weq9wx.png
  [[./wallhaven-weq9wx.png]]
-* wallhaven-yjj777.png
- [[./wallhaven-yjj777.png]]
 * wallhaven-zyvm1j.png
  [[./wallhaven-zyvm1j.png]]

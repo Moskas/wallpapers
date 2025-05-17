@@ -34,7 +34,7 @@
           gruvbox = stdenv.mkDerivation {
             name = "gruvbox";
             inherit version;
-            src = ./solarized;
+            src = ./gruvbox;
             buildPhase = ''
               mkdir -p $out
             '';
